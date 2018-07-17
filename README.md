@@ -4,6 +4,6 @@
 
 kaggle score 在mysubmission(0.77).png
 
-新增 EarlyStopping & Ckeckpoint & ReduceLR 後從0.66->0.77
+新增 EarlyStopping & Ckeckpoint & ReduceLR 後從score 0.66->0.77
 
 
