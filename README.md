@@ -1,6 +1,6 @@
 # AIA_week2_hw
 
-工作流程由 Data preprocess.ipynb 處理train data 整理成dataframe並更名放入rename_train 資料夾裡，
+  工作流程由 Data preprocess.ipynb 處理train data 整理成dataframe並更名放入rename_train 資料夾裡，
 
 再由keras_data_augment.ipynb 分析並預測。
 
